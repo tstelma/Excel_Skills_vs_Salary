@@ -33,7 +33,7 @@ The goal of this project was to answer key analytical questions:
 ## 📊 Key Insights
 
 ### 💰 Salary Analysis (by Role & Region)
-![Salary Analysis](images\salary_analysis.png)
+![Salary Analysis](images/salary_analysis.png)
 
 - Data Engineering and Machine Learning roles show the highest salaries  
 - US-based roles significantly outperform non-US salaries  
@@ -49,7 +49,7 @@ The goal of this project was to answer key analytical questions:
 ---
 
 ### 💡 Skill Salary Analysis
-![Skill Salary](images\skill_salary_analysis.png)
+![Skill Salary](images/skill_salary_analysis.png)
 
 - High-paying skills include:
   - Python  
@@ -60,7 +60,7 @@ The goal of this project was to answer key analytical questions:
 ---
 
 ### 📈 Skill Demand Analysis
-![Skill Demand](images\skill_job_analysis.png)
+![Skill Demand](images/skill_job_analysis.png)
 
 - SQL and Excel remain the most in-demand skills  
 - Modern tools appear less frequently but offer higher salary potential  
